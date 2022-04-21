@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"server","dependencies":{"@hapi/boom":{"version":"9.1.4"},"mongoose":{"version":"6.3.0"}}}
